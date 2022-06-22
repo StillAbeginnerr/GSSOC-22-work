@@ -1,5 +1,6 @@
 # GSSOC-22-work
 
+7 Pull requests merged
 
 https://github.com/Rayman-Sodhi/Clone-IT/pull/337 <br>
 https://github.com/Rayman-Sodhi/Clone-IT/pull/235 <br>
